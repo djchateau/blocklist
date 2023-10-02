@@ -1,0 +1,12 @@
+# Anti-Reddit Block List
+# Version 20231002
+# URL=https://github.com/djchateau/blocklist
+0.0.0.0 www.reddit.com
+0.0.0.0 redd.it
+0.0.0.0 redditblog.com
+0.0.0.0 reddit.com
+0.0.0.0 redditinc.com
+0.0.0.0 redditmail.com
+0.0.0.0 redditmedia.com
+0.0.0.0 redditstatic.com
+0.0.0.0 redditstatus.com
